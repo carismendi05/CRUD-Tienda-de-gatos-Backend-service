@@ -11,7 +11,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
@@ -31,5 +30,6 @@
     "@types/swagger-ui-express": "^4.1.7",
     "ts-node-dev": "github:types/express",
     "typescript": "^5.6.3"
-  }
+  },
+  "description": ""
 }
