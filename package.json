@@ -28,7 +28,7 @@
     "@types/sqlite3": "^3.1.11",
     "@types/swagger-jsdoc": "^6.0.4",
     "@types/swagger-ui-express": "^4.1.7",
-    "ts-node-dev": "github:types/express",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^5.6.3"
   },
   "description": ""
